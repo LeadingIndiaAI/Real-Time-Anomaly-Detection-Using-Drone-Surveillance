@@ -1,0 +1,6 @@
+digging
+walking
+Fighting
+Shooting
+RoadAccidents
+Stealing
